@@ -5,4 +5,4 @@ https://github.com/anhminhle/ansible-with-docker.git
 
 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
 
-git clone https://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@github.com/anhminhle/ansible-with-docker.git
+git clone https://anhminhle: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@github.com/anhminhle/ansible-with-docker.git
